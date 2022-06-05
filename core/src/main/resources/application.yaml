@@ -1,0 +1,5 @@
+test:
+    env: ${BASE_HOSTNAME}
+    browser: chrome
+    remote: false
+    hub:
